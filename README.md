@@ -4,7 +4,6 @@ Selamat datang di repositori LAB-WEB-13-2024! Repositori ini digunakan untuk men
 
 ## Tata Cara Pengumpulan (Commit)
 
-Adnan ingin memastikan bahwa tata cara pengumpulan kode (commit) ke repositori ini mudah dipahami. Berikut langkah-langkahnya:
 
 ### 1. Fork Repositori Ini
 Klik tombol "Fork" di kanan atas halaman repositori ini untuk membuat salinan ke akun GitHub pribadimu.
