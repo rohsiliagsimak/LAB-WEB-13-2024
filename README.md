@@ -46,7 +46,7 @@ git push -u origin H071231nnn  # Ganti dengan NIM masing-masing
 ### 9. Buka Pull Request
 Buka halaman repositori akunmu, dan lakukan Pull Request ke repositori utama ini.
 
-Tips Tambahan
+## Tips Tambahan
 Gunakan pesan commit yang jelas dan deskriptif agar mudah dimengerti di kemudian hari.
 Pastikan file tugas yang dikumpulkan sesuai dengan instruksi.
 Terima kasih sudah mengerjakan tugas dengan baik!
