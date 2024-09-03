@@ -12,8 +12,6 @@ Klik tombol "Fork" di kanan atas halaman repositori ini untuk membuat salinan ke
 ### 2. Kloning Repositori
 Setelah memiliki salinan repositori di akunmu, klik tombol "Code" dan pilih metode untuk mengunduh repositori. Salin URL yang diberikan, lalu buka terminal atau command prompt dan jalankan perintah berikut:
 
-```bash
-git clone <url-repositori-hasil-fork>
+  bash
+  git clone <url-repositori-hasil-fork>
 
-### 3. Buat Cabang (Branch) Baru
-Masuk ke direktori repositori yang telah di-kloning, kemudian buat cabang sesuai NIM masing-masing:
