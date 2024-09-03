@@ -15,4 +15,5 @@ Setelah memiliki salinan repositori di akunmu, klik tombol "Code" dan pilih meto
 ```bash
 git clone <url-repositori-hasil-fork>
 
-
+### 3. Buat Cabang (Branch) Baru
+Masuk ke direktori repositori yang telah di-kloning, kemudian buat cabang sesuai NIM masing-masing:
